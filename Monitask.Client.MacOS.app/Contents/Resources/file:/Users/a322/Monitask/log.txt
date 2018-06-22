@@ -1,0 +1,114 @@
+[2018-06-20T19:05:09.9886460-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:05:34.3112110-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:05:34.3485480-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:05:34.5768460-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:05:34.5943550-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:05:34.6086110-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:12:26.5966440-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:12:45.9878750-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:12:45.9887120-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:12:45.9909090-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:12:45.9918680-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:12:45.9925920-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:19:56.8758820-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:20:32.3406410-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:20:32.3516440-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:20:32.3844480-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:20:32.3886710-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:20:32.4011140-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:21:22.4724190-07:00] - [TEST] - RefreshProjectsAndSettings START ############### 
+[2018-06-20T19:21:26.0687370-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:21:26.0703650-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:21:26.0711700-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:21:26.0733670-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:21:26.0742980-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:21:26.0752870-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:21:26.6283450-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:21:26.6291760-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:21:26.6299200-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:21:26.6318130-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:21:26.6325540-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:21:26.6339040-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:21:30.5234810-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:21:30.5243610-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:21:30.5250710-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:21:30.5296300-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:21:30.5307240-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:21:30.5315230-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:21:37.0768110-07:00] - [TEST] - Save START ############### 
+[2018-06-20T19:21:37.0784360-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T19:21:37.0984400-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T19:21:37.1624770-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T19:21:37.1662080-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T19:21:37.1931340-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T19:22:22.8806220-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:41:45.5427120-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:41:45.7335980-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T20:41:45.7398170-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T20:41:45.7560200-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T20:41:45.7599970-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T20:41:45.7612130-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T20:42:18.3641880-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:42:57.6354570-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T20:42:57.6390630-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T20:42:57.6434410-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T20:42:57.6468340-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T20:42:57.6488400-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T20:43:12.4503460-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:43:31.2196120-07:00] - [TEST] - RefreshProjectsAndSettings START ############### 
+[2018-06-20T20:43:34.5933450-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:48:25.1208890-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:53:04.8792320-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:53:05.0299190-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T20:53:12.5931700-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T20:53:12.6220300-07:00] - [TEST] - Upload START ############### 
+[2018-06-20T20:53:12.6715140-07:00] - [TEST] - Upload NOTHING SEND ############### 
+[2018-06-20T20:53:12.6861520-07:00] - [Info] - Source: DeskcapBackGround.Upload	- HandleException: Object reference not set to an instance of an object	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround.get_MainWindowViewModel () [0x00000] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:74 
+  at Monitask.Client.Shared.Core.DeskcapBackGround+<UploadTask>d__51.MoveNext () [0x00332] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:591 
+[2018-06-20T20:54:22.2162720-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:54:22.2845800-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
+[2018-06-20T20:54:37.1458380-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace:   at Monitask.Client.Shared.Core.DeskcapBackGround+<>c__DisplayClass49_0.<Save>b__0 () [0x001c0] in /Users/a322/Documents/GitHub/deskcap-osx/Monitask.Client.Shared/Core/DeskcapBackGround.cs:516 
+[2018-06-20T20:56:38.2390950-07:00] - [TEST] - Save START ############### 
+[2018-06-20T20:56:38.3847870-07:00] - [Info] - Source: DeskcapBackGround.Save	- HandleException: selectedNote is null	- Details: 
+	- StackTrace: 
